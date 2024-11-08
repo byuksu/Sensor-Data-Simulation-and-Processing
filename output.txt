@@ -1,0 +1,7 @@
+OUTPUTS
+*******************************************
+Number of Data Points  :10
+Minimum Value          :-90.966667
+Maximum Value          :11.100000
+Average Value          :-31.529167
+*******************************************
