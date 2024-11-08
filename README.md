@@ -4,8 +4,8 @@
 
 Kodunuzu derlemek için bir terminal açın ve şu komutu çalıştırın:
 
-- **Derleme:** `g++ main.cpp -o SensorDataApp`
-- **Programı Çalıştırma:** `./SensorDataApp`
+- **Derleme:** `g++ main.cpp -o main.exe`
+- **Programı Çalıştırma:** `./main.exe`
 
 
 ## Parametre Değiştirme:
